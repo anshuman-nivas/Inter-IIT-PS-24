@@ -85,3 +85,5 @@ This project focuses on associating GIF data with textual descriptions by levera
 The project successfully demonstrated the ability to extract meaningful visual features from GIFs using a pre-trained ResNet50 model and model the relationship between these features and the corresponding text using an RNN. The results showed a significant decrease in training loss, suggesting effective learning. Future improvements could include evaluation on test data, the use of attention mechanisms, and further hyperparameter tuning.
 
 ---
+### Future Modifications
+In future work, we plan to address the limitation of not being able to download the entire set of GIFs from the TGIF dataset due to computational constraints. By downloading and processing all the GIFs that could not be included in this project, the model would be exposed to a more diverse dataset. This would allow it to learn more comprehensively, leading to improved performance, reduced error rates, and more robust and clear outputs. Expanding the dataset would enhance the model's generalization ability, enabling it to better map visual features to textual descriptions.
