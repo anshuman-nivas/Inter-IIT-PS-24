@@ -24,16 +24,12 @@ This project focuses on associating GIF data with textual descriptions by levera
 
 - **Positional Encoding**  
   Since GIFs are sequences of frames, positional encoding (using sine and cosine functions) was added to capture the order of the frames.
-
-- **Saving Features**  
-  The extracted features, along with positional encoding, were saved as `.npy` files for subsequent model training.
-
 ---
 
 #### 2. Dataset Preparation  
 
 - **Loading GIF Features**  
-  The extracted features were loaded from the `.npy` files. Each file contained a matrix of ResNet features for a specific GIF.
+  The output from ResNet model were passed containing a matrix of ResNet features for a specific GIF.
 
 - **Loading Descriptions**  
   Text descriptions for each GIF were stored in text files. These descriptions were loaded for training purposes.
