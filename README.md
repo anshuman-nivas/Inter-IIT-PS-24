@@ -1,9 +1,9 @@
 # Inter-IIT-PS-24  
-**README: GIF Feature Extraction and Description Generation**  
+**GIF Feature Extraction and Description Generation**  
 
 ### Contributors:
-- **Anshuman Nivas** (EEE’26, Group 17)
-- **Manoj Sunuguri** (EEE’26, Group 13)
+- **Anshuman Nivas** (EEE’26)
+- **Manoj Sunuguri** (EEE’26)
 
 ---
 
