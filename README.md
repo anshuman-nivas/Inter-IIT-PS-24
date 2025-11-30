@@ -3,7 +3,7 @@
 
 ### Contributors:
 - **Anshuman Nivas** (EEE’26)
-- **Manoj Sunuguri** (EEE’26)
+- **Ritwij Verma** (EEE’26)
 
 ---
 
